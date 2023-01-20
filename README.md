@@ -141,3 +141,33 @@ I DON'T YET KNOW ENOUGH ABOUT YOU. DOES ANYONE?
 ¿Cuál fue el mejor chiste que les contó el sitio?
 
 - **Respuesta:** En pocos miles, pocos cientos.
+
+## Ejercicio 9
+
+¿Cúal es la fase de la luna actual?
+
+```
+                 .-
+             .-
+          .-
+       .-'
+      /@
+    ./
+   /@@
+  /@@
+  |@@
+ /@@    Last Quarter +
+ | @    5  4:28:27
+ |@     New Moon -
+ |      1 14:13:35
+ \
+  |
+  \
+   \
+    `\
+      \
+       `-.
+          `-
+             `-
+                 `-
+```
