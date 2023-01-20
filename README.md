@@ -38,3 +38,14 @@ ye shall be as gods
 ¿Cuanto tiempo lleva encendido el server de telehack.com?
 
 - **Respuesta:** Since 2022-Dec-26 02:50:41
+
+## Ejercicio 5
+
+En el emulador de apple, corran el software appleteach1 y luego el programa 34, corran todo el test, cuál fue su resultado?
+
+Los resultados fueron:
+
+- Piensas las cosas inteligentemente.
+- Aprovecha cualquier oportunidad.
+- Eres una persona amorosa.
+- Eres justo.
