@@ -135,3 +135,9 @@ What is life?
 
 I DON'T YET KNOW ENOUGH ABOUT YOU. DOES ANYONE?
 ```
+
+## Ejercicio 8
+
+¿Cuál fue el mejor chiste que les contó el sitio?
+
+- **Respuesta:** En pocos miles, pocos cientos.
