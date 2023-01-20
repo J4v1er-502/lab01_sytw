@@ -32,3 +32,9 @@ ye shall be as gods
 ```
 
 - **Respuesta:** -.-- . ... .... .- .-.. .-.. -... . .- ... --. --- -.. ...
+
+## Ejercicio 4
+
+¿Cuanto tiempo lleva encendido el server de telehack.com?
+
+- **Respuesta:** Since 2022-Dec-26 02:50:41
