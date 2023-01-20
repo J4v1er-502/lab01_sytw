@@ -98,3 +98,40 @@ INWG: 72                                                   December 1974
    is referred to [CEKA74, TOML74, BELS74, DALA74, SUNS74] for further
    discussion.
 ```
+
+## Ejercicio 7
+
+¿Que respuesta les dio la psicoterapeuta a la pregunta "what is life?"
+
+```
+HELLO, I AM ELIZA.
+
+Hi
+
+HOW DO YOU DO. PLEASE STATE YOUR PROBLEM.
+
+I want to ask u a doubt
+
+WHEN A MACHINE USES THE WORD "I" OR "ME" IS IT DECEIVING YOU?
+
+Maybe
+
+YOU MIGHT BE HAPPIER TALKING TO SOMEONE ELSE.
+YOU MIGHT BE HAPPIER TALKING TO SOMEONE ELSE.
+
+So youre not going to answer me the doubt
+
+WE WERE DISCUSSING YOU -- NOT ME.
+
+We are not discussing
+
+I SEE
+
+so
+
+PLEASE STATE YOUR PROBLEM.
+
+What is life?
+
+I DON'T YET KNOW ENOUGH ABOUT YOU. DOES ANYONE?
+```
